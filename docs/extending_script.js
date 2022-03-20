@@ -4,7 +4,7 @@ window.onload = () => { //load when the window running the code is open
 
 const models = [  //declariung and initializing a model
   {
-    url: './assets/solgaleo_coin/scene.gltf', //url to this model
+    url: './assets/scene.gltf', //url to this model
     scale: '0.5 0.5 0.5',
     rotation: '0 225 0'
   },
