@@ -1,0 +1,11 @@
+Model Information:
+* title:	Solgaleo Coin
+* source:	https://sketchfab.com/3d-models/solgaleo-coin-74bba6fd01004f6990c4aa0dd05aa247
+* author:	DevBat (https://sketchfab.com/DevBat)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Solgaleo Coin" (https://sketchfab.com/3d-models/solgaleo-coin-74bba6fd01004f6990c4aa0dd05aa247) by DevBat (https://sketchfab.com/DevBat) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
