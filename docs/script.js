@@ -26,7 +26,7 @@ function renderPlaces(places) { //expand on what the function renderPlaces(place
        model.setAttribute('gps-entity-place', `latitude: ${latitude}; longitude: ${longitude};`); // set that model's gps-entity-place using the latittude and longitutde values declared and retrieved above
        model.setAttribute('gltf-model', './assets/scene.gltf'); //establish the 3D model to use.  Here, it will use a present model.
        model.setAttribute('rotation', '0 180 0'); //set up the rotation/position of the model in respects to xyz coordinates
-       model.setAttribute('scale', '20 20 20')
+       model.setAttribute('scale', '20 20 20')//set i[ sacle for the model
 
        model.addEventListener('loaded', () => { //addEventListener() takes an event t listen for, in this case 'loaded' and then fires another argument when 'loaded' gest fired
            window.dispatchEvent(new CustomEvent('gps-entity-place-loaded')) //within the window, a new event is then added to index.html; 'gps-entity-place-loaded'
