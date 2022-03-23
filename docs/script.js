@@ -8,8 +8,8 @@ function staticLoadPlaces() { //declaring the function staticloadPlaces()
        {
            name: 'MyModel', //a name property, which we set as MyModel
            location: { //the location:
-               lat: 43.641967, //lattitude coordinates
-               lng: -79.723553, //longitutde coordinates
+               lat: 43.772813, //lattitude coordinates
+               lng: -79.504595, //longitutde coordinates
            }
        },
    ];
